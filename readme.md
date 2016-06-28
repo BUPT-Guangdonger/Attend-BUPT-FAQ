@@ -1,5 +1,11 @@
 # FAQ
-##写在最前面
+## 写在最前面
+* 填报志愿之前你需要阅读什么
+ 1. [招生办网站](http://zsb.bupt.edu.cn/)
+ 2. [历年各专业的录取分数](http://zsb.bupt.edu.cn/list/list.php?p=5_45_1)
+ 3. [招生人数计划](http://zsb.bupt.edu.cn/content/content.php?p=4_5_515)
+ 4. [招生章程](http://zsb.bupt.edu.cn/content/content.php?p=3_3_463)
+ 5. 我们的这篇FAQ
 * 报志愿之前，先想清楚自己要选择什么样的校园生活？
  *  想要社团活动多一点，大学轻松一点，估计这和北邮的学习强度有点背离。
  *  想要住宿环境好一点，北邮估计比广东绝大部分大学的宿舍更差。
