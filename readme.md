@@ -20,9 +20,9 @@
 ## 填报志愿之前
 * 填报志愿之前你需要阅读什么
  1. [招生办网站](http://zsb.bupt.edu.cn/)
- 2. [历年各专业的录取分数](http://zsb.bupt.edu.cn/list/list.php?p=5_45_1)
- 3. [招生人数计划](http://zsb.bupt.edu.cn/content/content.php?p=4_5_515)
- 4. [招生章程](http://zsb.bupt.edu.cn/content/content.php?p=3_3_463)
+ 2. [历年各专业的录取分数](http://zsb.bupt.edu.cn/list/list.php?p=5_49_1)
+ 3. [招生人数计划](http://zsb.bupt.edu.cn/content/content.php?p=4_5_623)
+ 4. [招生章程](http://zsb.bupt.edu.cn/content/content.php?p=3_3_627)
  5. 我们的这篇FAQ
 * 如何使用我们这篇FAQ
  * 顺序阅读
